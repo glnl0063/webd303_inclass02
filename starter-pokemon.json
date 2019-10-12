@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Eevee",
+        "description": "Eevee has an unstable genetic makeup that suddenly mutates due to the environment in which it lives. Radiation from various stones causes this Pokémon to evolve.",
+        "id": "#133", 
+        "type": "Normal", 
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/133.png"
+    }, 
+    {
+        "name": "Vaporeon",
+        "description": "Vaporeon underwent a spontaneous mutation and grew fins and gills that allow it to live underwater. This Pokémon has the ability to freely control water.",
+        "id": "#134",
+        "type": "Water",    
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/134.png"     
+    }, 
+    {
+        "name": "Jolteon",
+        "description": "Jolteon's cells generate a low level of electricity. This power is amplified by the static electricity of its fur, enabling the Pokémon to drop thunderbolts. The bristling fur is made of electrically charged needles.",
+        "id": "#135", 
+        "type": "Electric",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/135.png"        
+    }, 
+    {
+        "name": "Flareon",
+        "description": "Flareon's fluffy fur has a functional purpose—it releases heat into the air so that its body does not get excessively hot. This Pokémon's body temperature can rise to a maximum of 1,650 degrees Fahrenheit.",
+        "id": "#136", 
+        "type": "Fire",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/136.png"
+    },   
+    {
+        "name": "Espeon",
+        "description": "IEspeon is extremely loyal to any Trainer it considers to be worthy. It is said that this Pokémon developed its precognitive powers to protect its Trainer from harm.",
+        "id": "#196", 
+        "type": "Psychic",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/196.png"
+    }, 
+    {
+        "name": "Umbreon",
+        "description": "Umbreon evolved as a result of exposure to the moon's waves. It hides silently in darkness and waits for its foes to make a move. The rings on its body glow when it leaps to attack.",
+        "id": "#197",
+        "type": "Dark",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/197.png"        
+    }, 
+    {
+        "name": "Leafeon",
+        "description": "When you see Leafeon asleep in a patch of sunshine, you'll know it is using photosynthesis to produce clean air.",
+        "id": "#470", 
+        "type": "Grass",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/470.png"       
+    },      
+    {
+        "name": "Glaceon",
+        "description": "By controlling its body heat, it can freeze the atmosphere around it to make a diamond-dust flurry.",
+        "id": "#471", 
+        "type": "Ice",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/471.png"       
+    },  
+    {
+        "name": "Slyeon",
+        "description": "It sends a soothing aura from its ribbonlike feelers to calm fights.",
+        "id": "#700", 
+        "type": "Fairy",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/700.png"       
+    }          
+]

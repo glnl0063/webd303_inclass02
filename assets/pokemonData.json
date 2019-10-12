@@ -1,0 +1,44 @@
+[
+    {
+      "name": "Bulbasaur",
+      "description": "Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun's rays, the seed grows progressively larger.",
+      "id": "#001", 
+      "type": "Grass"
+    }, 
+    {
+        "name": "Charmander",
+        "description": "The flame that burns at the tip of its tail is an indication of its emotions. The flame wavers when Charmander is enjoying itself. If the Pokémon becomes enraged, the flame burns fiercely.",
+        "id": "#004",
+        "type": "Fire"        
+    }, 
+    {
+        "name": "Squirtle",
+        "description": "Squirtle's shell is not merely used for protection. The shell's rounded shape and the grooves on its surface help minimize resistance in water, enabling this Pokémon to swim at high speeds.",
+        "id": "#007", 
+        "type": "Water"        
+    }, 
+    {
+        "name": "Pikachu",
+        "description": "Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge.",
+        "id": "#025", 
+        "type": "Electric"
+    },   
+    {
+      "name": "Chikorita",
+      "description": "In battle, Chikorita waves its leaf around to keep the foe at bay. However, a sweet fragrance also wafts from the leaf, becalming the battling Pokémon and creating a cozy, friendly atmosphere all around.",
+      "id": "#152", 
+      "type": "Grass"
+    }, 
+    {
+        "name": "Cyndaquil",
+        "description": "Cyndaquil protects itself by flaring up the flames on its back. The flames are vigorous if the Pokémon is angry. However, if it is tired, the flames splutter fitfully with incomplete combustion.",
+        "id": "#155",
+        "type": "Fire"        
+    }, 
+    {
+        "name": "Totodile",
+        "description": "Despite the smallness of its body, Totodile's jaws are very powerful. While the Pokémon may think it is just playfully nipping, its bite has enough power to cause serious injury.",
+        "id": "#158", 
+        "type": "Water"        
+    }  
+]
